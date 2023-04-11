@@ -2,4 +2,4 @@
 PRODUCT_TYPE := go
 
 # Inherit full common DerpFest stuff
-$(call inherit-product, vendor/derp/config/common_full_phone.mk)
+$(call inherit-product, vendor/akxne/config/common_full_phone.mk)

@@ -2,9 +2,9 @@
 # DerpFest Audio Files
 #
 
-ALARM_PATH := vendor/derp/prebuilt/common/media/audio/alarms
-NOTIFICATION_PATH := vendor/derp/prebuilt/common/media/audio/notifications
-RINGTONE_PATH := vendor/derp/prebuilt/common/media/audio/ringtones
+ALARM_PATH := vendor/akxne/prebuilt/common/media/audio/alarms
+NOTIFICATION_PATH := vendor/akxne/prebuilt/common/media/audio/notifications
+RINGTONE_PATH := vendor/akxne/prebuilt/common/media/audio/ringtones
 
 # Alarms
 PRODUCT_COPY_FILES += \

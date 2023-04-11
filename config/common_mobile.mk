@@ -1,5 +1,5 @@
 # Inherit common mobile DerpFest stuff
-$(call inherit-product, vendor/derp/config/common.mk)
+$(call inherit-product, vendor/akxne/config/common.mk)
 
 # Default notification/alarm sounds
 PRODUCT_PRODUCT_PROPERTIES += \

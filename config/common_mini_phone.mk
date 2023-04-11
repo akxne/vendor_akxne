@@ -1,8 +1,8 @@
 # Inherit mini common DerpFest stuff
-$(call inherit-product, vendor/derp/config/common_mini.mk)
+$(call inherit-product, vendor/akxne/config/common_mini.mk)
 
 # Required packages
 PRODUCT_PACKAGES += \
     LatinIME
 
-$(call inherit-product, vendor/derp/config/telephony.mk)
+$(call inherit-product, vendor/akxne/config/telephony.mk)
